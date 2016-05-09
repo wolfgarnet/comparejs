@@ -1,0 +1,3 @@
+[submodule "vendor/github.com/wolfgarnet/walker"]
+	path = vendor/github.com/wolfgarnet/walker
+	url = git@github.com:wolfgarnet/walker.git
